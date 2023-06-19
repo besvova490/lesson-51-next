@@ -1,0 +1,10 @@
+.header {
+  height: 50px;
+  background-color: aqua;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+}
